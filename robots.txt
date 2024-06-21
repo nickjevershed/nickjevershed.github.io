@@ -1,5 +1,8 @@
 User-agent: GPTBot
 Disallow: /robots-news/
 
+User-agent:ChatGPT-User
+Disallow: /robots-news/
+
 User-Agent: PerplexityBot
-Disallow: /robots-news/test-news4.html
+Disallow: /robots-news/
